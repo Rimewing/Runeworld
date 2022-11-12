@@ -30,3 +30,22 @@
 *.exe
 *.out
 *.app
+
+# VIm Temporary Files
+*~
+*.swp
+
+# Visual Studio Disposables
+*.db
+*.ipch
+*.log
+*.tlog
+*.idb
+*.pdb
+*.ilk
+*~
+.\solution\runeworld\.vs\*
+.\solution\runeworld\Debug\*
+.\solution\runeworld\x64\*
+.\solution\runeworld\Debug\*
+.\solution\runeworld\x64\*
