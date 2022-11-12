@@ -47,5 +47,5 @@
 .\solution\runeworld\.vs\*
 .\solution\runeworld\Debug\*
 .\solution\runeworld\x64\*
-.\solution\runeworld\Debug\*
-.\solution\runeworld\x64\*
+.\solution\runeworld\runeworld\Debug\*
+.\solution\runeworld\runeworld\x64\*
